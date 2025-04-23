@@ -66,7 +66,7 @@
 
 ---
 
-## 📚 Nguồn tham khảo code và 
+## 📚 Nguồn tham khảo code và tự học
   
   - [Lazy Foo' Productions SDL2 Tutorials](https://lazyfoo.net/tutorials/SDL/)  
   - https://www.youtube.com/watch?v=pjLpipQRMIw&list=PL2RPjWnJduNmXHRYwdtublIPdlqocBoLS&index=3
