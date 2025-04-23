@@ -66,25 +66,28 @@
 
 ---
 
-## 📚 Nguồn tham khảo
-
-- **Tutorial học SDL2**:  
+## 📚 Nguồn tham khảo code và 
+  
   - [Lazy Foo' Productions SDL2 Tutorials](https://lazyfoo.net/tutorials/SDL/)  
-  - [Youtube - SDL2 Game Development](https://www.youtube.com/watch?v=MeMPCsqQzT0)
+  - https://www.youtube.com/watch?v=pjLpipQRMIw&list=PL2RPjWnJduNmXHRYwdtublIPdlqocBoLS&index=3
+  - https://lazyfoo.net/tutorials/SDL/27_collision_detection/index.php
+  - https://www.youtube.com/watch?v=q1WzniyeGTU&list=PLR7NDiX0QsfQQ2iFXsXepwH46wf3D4Y4C
+  - https://gameprogrammingpatterns.com/state.html
+  - https://gamedevbeginner.com/finite-state-machines-explained/
+  - https://lazyfoo.net/tutorials/SDL/29_collision_detection/index.php
+  - https://gafferongames.com/post/fix_your_timestep/
+  - https://lazyfoo.net/tutorials/SDL/21_sound_effects_and_music/index.php
 
 - **Nguồn ảnh/âm thanh**:  
-  - Ảnh nhân vật: [https://www.freepik.com/free-vector/cute-panda-game-character](https://www.freepik.com/free-vector/cute-panda-game-character)  
-  - Item và hiệu ứng: [https://opengameart.org](https://opengameart.org)  
+  - Ảnh nhân vật,item,map,background... làm bằng chatgpt và tự vẽ bằng pixel art: https://www.youtube.com/watch?v=Nct4Lzd1kd0&list=PLtLfu6Tmp0t_0T7Hkk2Yc-cRnk9COFhS- 
   - Âm thanh:  
-    - Click Menu / Game Over: `555611cd-7939-42dd-99e4-b461b93c900e.wav`  
-      → **Nguồn**: *Chưa rõ – vui lòng cập nhật nếu có*  
-      → Dạng file `.wav`, sử dụng khi người chơi chọn menu hoặc kết thúc trò chơi.
+    
 
 ---
 
 ## 🤖 Mức độ sử dụng AI  
-- Có sử dụng ChatGPT để hỗ trợ hiểu đoạn mã SDL, tối ưu logic và soát lỗi.  
-- Mọi tính năng đều do bản thân tự viết, hiểu và sẵn sàng giải thích kỹ lưỡng khi vấn đáp.
+- Có sử dụng ChatGPT để hỗ trợ hiểu đoạn mã SDL, tối ưu logic và soát lỗi, tham khảo code, sửa lỗi code, học code.
+
 
 ---
 
